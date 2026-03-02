@@ -1,4 +1,4 @@
-# 🏥 VITALGUARD 2.0
+# 🏥 AI-MEDICAL-ASSISANT
 ### AI-Based Remote ICU Monitoring & Predictive Triage System
 
 ![VitalGuard Hero](./vitalguard_hero_1772422394811.png)
